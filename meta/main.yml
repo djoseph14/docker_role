@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  role_name: docker_install
+  author: Daniel
+  description: Installation de docker
+  company: AJC

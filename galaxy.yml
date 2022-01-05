@@ -1,0 +1,16 @@
+namespace: community
+name: install_docker
+version: 1.0.0
+readme: README.md
+authors:
+  - JOSEPH Daniel
+description: Installation de docker
+license_file: COPYING
+tags:
+  - v1
+repository: https://github.com/djoseph14/docker_role.git
+documentation: https://github.com/djoseph14/docker_role.git
+homepage: https://github.com/djoseph14/docker_role.git
+issues: https://github.com/djoseph14/docker_role.git
+build_ignore:
+  - .gitignore
